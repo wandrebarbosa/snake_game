@@ -7,3 +7,8 @@ body {
     flex-direction: column;
     color: rgb(13, 70, 38);
 }
+
+body img {
+    height: 150px;
+    width: 150px;
+}
